@@ -1,0 +1,7 @@
+{
+  "name": "Remix ShellHacks2026",
+  "description": "Imported from GitHub: ratsrichie/ShellHacks2026",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
